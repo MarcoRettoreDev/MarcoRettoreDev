@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marco Rettore, and my acronym is Mr.Dev
-- 🚀 I’m a passionate new developer who wants to improve people lives with technology
-- 💻 I’m currently learning Web Development, to know about front-end and back-end, cause i want to be a Full Stack Dev.
+- 👋 Hello there, my name is Marco, better known as Mr.Dev  
+- 🚀 I’m a passionate developer who wants to improve people's lives with technology
+- 💻 I can make different applications from scratch, both mobile and web.
 - 📫 If you want to reach me, you can find my contact info on my [PORTFOLIO]('Coming soon')
 
 <!---
